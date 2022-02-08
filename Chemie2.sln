@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chemie2", "Chemie2\Chemie2.csproj", "{0EBFFAE4-0AFD-4DF6-9660-69C523CEA0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EBFFAE4-0AFD-4DF6-9660-69C523CEA0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBFFAE4-0AFD-4DF6-9660-69C523CEA0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBFFAE4-0AFD-4DF6-9660-69C523CEA0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBFFAE4-0AFD-4DF6-9660-69C523CEA0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D625EC8-6C53-4924-9D75-609264FEA67D}
+	EndGlobalSection
+EndGlobal

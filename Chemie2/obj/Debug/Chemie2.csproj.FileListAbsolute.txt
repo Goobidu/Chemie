@@ -1,0 +1,8 @@
+C:\Users\START\source\repos\Chemie2\Chemie2\bin\Debug\Chemie2.exe.config
+C:\Users\START\source\repos\Chemie2\Chemie2\bin\Debug\Chemie2.exe
+C:\Users\START\source\repos\Chemie2\Chemie2\bin\Debug\Chemie2.pdb
+C:\Users\START\source\repos\Chemie2\Chemie2\obj\Debug\Chemie2.csproj.AssemblyReference.cache
+C:\Users\START\source\repos\Chemie2\Chemie2\obj\Debug\Chemie2.csproj.SuggestedBindingRedirects.cache
+C:\Users\START\source\repos\Chemie2\Chemie2\obj\Debug\Chemie2.csproj.CoreCompileInputs.cache
+C:\Users\START\source\repos\Chemie2\Chemie2\obj\Debug\Chemie2.exe
+C:\Users\START\source\repos\Chemie2\Chemie2\obj\Debug\Chemie2.pdb
